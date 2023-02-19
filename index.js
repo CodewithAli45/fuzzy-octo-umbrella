@@ -5,3 +5,4 @@ function somefun(){
     }, 500);
 }
 somefun();
+confirm('you there');
